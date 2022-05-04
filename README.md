@@ -22,7 +22,7 @@ O objetivo geral deste projeto é desenvolver um equipamento de limpeza automati
 - [PC-1](https://drive.google.com/file/d/1Le9CUrsN9T5-e0F1-vUeB0wTR3kGSd6s/view?usp=sharing)
 - [PC-2](https://drive.google.com/file/d/1QvK3sanlIEGjMUwoRRJGxX9GNoT7hZ9s/view?usp=sharing)
 - [PC-3](https://drive.google.com/file/d/1rStVIZR89BFd1R2VJryRtdmfiZX-3vgZ/view?usp=sharing)
-- [PC-3_Corrigido](https://drive.google.com/file/d/1QZx7_w_42xRuXN9AkmguTpMyXXi8LMgy/view?usp=sharing)
+- [PC-3_Corrigido](https://drive.google.com/file/d/1iKdTr_gyAg8osX5lCs2Wu2BSLknbstAI/view?usp=sharing)
 
 ##  Vídeo de Propaganda da Solução
 
