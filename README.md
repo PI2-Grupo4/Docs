@@ -17,14 +17,18 @@ O objetivo geral deste projeto é desenvolver um equipamento de limpeza automati
 - [Energia](https://drive.google.com/drive/folders/11b92kM0_Vxac6ZsHu4O8L-gVE25fkDEo?usp=sharing)
 - [Software](https://drive.google.com/drive/folders/1sgEMgCoGRIjZYsVx-No87HEnNyn6Zjgb?usp=sharing)
 
-### Pontos de Controle:
+## Pontos de Controle:
 
 - [PC-1](https://drive.google.com/file/d/1Le9CUrsN9T5-e0F1-vUeB0wTR3kGSd6s/view?usp=sharing)
 - [PC-2](https://drive.google.com/file/d/1QvK3sanlIEGjMUwoRRJGxX9GNoT7hZ9s/view?usp=sharing)
 - [PC-3](https://drive.google.com/file/d/1krHsmxfHhqae83Aw9MUsKhha12Zn-ojY/view?usp=sharing)
-<!-- - [PC-3_Corrigido]() -->
+<!-- - [PC-3_Atualizado]() -->
 
-### Como contribuir a aplicação?
+##  Vídeo de Propaganda da Solução
+
+- [Clique aqui](https://youtu.be/HUx6tFeA9_8) para assistir.
+
+## Como contribuir a aplicação?
 
 - [Backend](https://github.com/PI2-Grupo4/Back-end) <br>
 - [Frontend](https://github.com/PI2-Grupo4/Front-end)
