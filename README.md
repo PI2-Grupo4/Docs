@@ -21,14 +21,14 @@ O objetivo geral deste projeto é desenvolver um equipamento de limpeza automati
 
 - [PC-1](https://drive.google.com/file/d/1Le9CUrsN9T5-e0F1-vUeB0wTR3kGSd6s/view?usp=sharing)
 - [PC-2](https://drive.google.com/file/d/1QvK3sanlIEGjMUwoRRJGxX9GNoT7hZ9s/view?usp=sharing)
-- [PC-3](https://drive.google.com/file/d/1krHsmxfHhqae83Aw9MUsKhha12Zn-ojY/view?usp=sharing)
-<!-- - [PC-3_Atualizado]() -->
+- [PC-3](https://drive.google.com/file/d/1rStVIZR89BFd1R2VJryRtdmfiZX-3vgZ/view?usp=sharing)
+- [PC-3_Atualizado](https://drive.google.com/file/d/1cEl1WZt96kWE3p4jl6i4113Na-jEI4r6/view?usp=sharing)
 
 ##  Vídeo de Propaganda da Solução
 
 - [Clique aqui](https://youtu.be/HUx6tFeA9_8) para assistir.
 
-## Como contribuir a aplicação?
+## Como contribuir com a aplicação?
 
 - [Backend](https://github.com/PI2-Grupo4/Back-end) <br>
 - [Frontend](https://github.com/PI2-Grupo4/Front-end)
